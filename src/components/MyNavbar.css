@@ -1,0 +1,11 @@
+
+.navbar{
+    background-color: #34495e;
+}
+.navbar-nav .nav-item .nav-link {
+    color: #fff !important;
+}
+.icon:hover {
+    background-color: #fff; /* لون الزر عند الـ Hover */
+    color: #eff3f6 !important; /* تغيير لون الأيقونة */
+}

@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "price": 35000,
+        "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dell XPS 15",
+        "price": 50000,
+        "image": "https://m.media-amazon.com/images/I/91u5+AJuVkL.jpg"
+      },
+      {
+        "id": 3,
+        "name": "AirPods Pro 2",
+        "price": 6500,
+        "image": "https://www.apple.com/v/airpods-pro/n/images/meta/og__eui2mpgzwyaa_overview.png"
+      },
+      {
+        "id": 4,
+        "name": "Apple Watch Series 9",
+        "price": 18000,
+        "image": "https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/apple-watch-series-9.png"
+      },
+      {
+        "id": 5,
+        "name": "Gucci Handbag",
+        "price": 12000,
+        "image": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1715004913/792082_FADJA_1042_001_083_0000_Light-small-gg-crossbody-bag.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Nike Air Force 1",
+        "price": 3500,
+        "image": "https://static.nike.com/a/images/t_default/18ef2110-a8a6-4cd5-9ebe-8360c14e7b5e/NIKE+AIR+FORCE+1+JEWEL.png"
+      },
+      {
+        "id": 7,
+        "name": "Samsung 55\" QLED 4K TV",
+        "price": 25000,
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/eg/qa55q60dauxeg/gallery/eg-qled-q60d-qa55q60dauxeg-540596485?$684_547_PNG$"
+      },
+      {
+        "id": 8,
+        "name": "PlayStation 5",
+        "price": 30000,
+        "image": "https://ae01.alicdn.com/kf/S32e28e04640b4b2b80cffbeda00f15982.png"
+      },
+      {
+        "id": 9,
+        "name": "Canon EOS 90D Camera",
+        "price": 22000,
+        "image": "https://pimcdn.sharafdg.com/images/000000000001152944_1?1703611126"
+      },
+      {
+        "id": 10,
+        "name": "Nike Running Jacket",
+        "price": 3200,
+        "image": "https://www.bfgcdn.com/1500_1500_90/128-0372/nike-womens-shield-running-jacket-laufjacke.jpg"
+    },
+      {
+        "id": 11,
+        "name": "Puma Hoodie",
+        "price": 2800,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdMova7ORvBiGred6UEt03eRQReEonI7pyRg&s"
+    },
+      {
+        "id": 12,
+        "name": "Under Armour Training Shorts",
+        "price": 1800,
+        "image": "https://m.media-amazon.com/images/I/41jQV6eSceL._AC_SY580_.jpg"
+    }
+    ]
+  
