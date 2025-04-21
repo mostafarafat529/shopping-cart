@@ -36,7 +36,6 @@ style={{
     width:"70px" ,
     height:"70px" ,
     lineHeight:"50px",
-    borderRadius:"50%" ,
     border:"1px solid #fff" ,
     color:"#fff"
 }}
